@@ -11,3 +11,9 @@ Simple, just run inside of our root project folder the following command:
 npm install
 grunt
 ```
+
+## GamePlay
+
+![home](https://raw.githubusercontent.com/hackertron/shoot_duck/master/game.PNG)
+
+![play](https://raw.githubusercontent.com/hackertron/breakout/master/game.PNG)

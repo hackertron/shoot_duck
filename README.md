@@ -14,6 +14,6 @@ grunt
 
 ## GamePlay
 
-![home](https://raw.githubusercontent.com/hackertron/shoot_duck/master/game.PNG)
+![home](https://raw.githubusercontent.com/hackertron/shoot_duck/master/home.PNG)
 
-![play](https://raw.githubusercontent.com/hackertron/breakout/master/game.PNG)
+![play](https://raw.githubusercontent.com/hackertron/shoot_duck/master/play.PNG)
